@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👀 
 
 <!--
 **dhrupad17/dhrupad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi I am a potato
+![cute-potato-background-white-illustration-260nw-1835157172](https://user-images.githubusercontent.com/91726340/142852416-4c538477-2b99-48c9-9481-1ca96db11514.jpg)
