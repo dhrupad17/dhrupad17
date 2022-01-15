@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrupad17" alt="dhrupad17" /></a> </p>
 
+## About Me🙋‍♂️
 - 🔭 I’m currently working on [6companies30Days](https://github.com/dhrupad17/6companies30Days)
 
 - 🌱 I’m currently learning **C++ ,JavaScipt**
