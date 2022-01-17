@@ -9,7 +9,7 @@
 ## About Me🙋‍♂️
 - 🔭 I’m currently working on [6companies30Days](https://github.com/dhrupad17/6companies30Days)
 
-- 🌱 I’m currently learning **C++ ,JavaScipt**
+- 🌱 I’m currently learning **C++ ,JavaScript**
 
 - 📫 Reach me **dhrupadchakraborty123@gmail.com**
 
@@ -17,8 +17,8 @@
 
 <p align="left"> <img src="https://bethelcarlisle.com/wp-content/uploads/2020/07/lets-connect-1.png" /> </p> 
 <p align="left">
-<a href="https://linkedin.com/in/dhrupad chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
-<a href="https://fb.com/dhrupad chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dhrupad-chakraborty-5189b8214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dhrupad.chakraborty.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/graphite_boy_dhrupad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graphite_boy_dhrupad" height="30" width="40" /></a>
 </p>
 
