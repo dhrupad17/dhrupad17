@@ -9,7 +9,7 @@
 ## About Me🙋‍♂️
 - 🔭 I’m currently working on [6companies30Days](https://github.com/dhrupad17/6companies30Days)
 
-- 🌱 I’m currently learning **C++ ,JavaScript**
+- 🌱 I’m currently learning **Java ,JavaScript**
 
 - 📫 Reach me **dhrupadchakraborty123@gmail.com**
 
