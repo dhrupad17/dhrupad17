@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrupad17" alt="dhrupad17" /></a> </p>
 
 ## About Me🙋‍♂️
-- 🔭 I’m currently working on [6companies30Days](https://github.com/dhrupad17/6companies30Days)
+- 🔭 I’m currently working on [CrackYourInternship45](https://github.com/dhrupad17/CrackYourInternship45)
 
-- 🌱 I’m currently learning **Java ,JavaScript**
+- 🌱 I’m currently learning **Java ,JavaScript,Data Structures and Algorithms**
 
 - 📫 Reach me **dhrupadchakraborty123@gmail.com**
 
