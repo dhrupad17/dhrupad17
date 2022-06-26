@@ -8,7 +8,7 @@
 <p><em>A Sophomore of <a href="https://aot.edu.in/">Academy of Technology</a></br>
 </em>
 </p>
-<img align='right' src="https://github.com/TridibD004/TridibD004/blob/master/%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81.gif" width="300">
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 - 🔭 I’m currently working on [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)
@@ -21,6 +21,7 @@
 
 <p align="left"> <img src="https://bethelcarlisle.com/wp-content/uploads/2020/07/lets-connect-1.png" width="250"/></p> 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/dhrupad-chakraborty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dhrupad.chakraborty.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/graphite_boy_dhrupad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graphite_boy_dhrupad" height="30" width="40" />
