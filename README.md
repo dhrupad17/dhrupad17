@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I eat more than code :)**
 
+<hr></hr>
+
 <p align="left"> <img src="https://bethelcarlisle.com/wp-content/uploads/2020/07/lets-connect-1.png" width="250"/></p> 
 <p align="left">
 
@@ -26,6 +28,8 @@
 <a href="https://www.facebook.com/dhrupad.chakraborty.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/graphite_boy_dhrupad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graphite_boy_dhrupad" height="30" width="40" />
 </p>
+<hr></hr>
+<img align='right' src="https://media0.giphy.com/media/QpVUMRUJGokfqXyfa1/200w.webp?cid=ecf05e47ix6yvwxipwlb7sloepd0gz3dp20gc9yj5hee0qsw&rid=200w.webp&ct=g" width="300">
 
 <h3 align="left">Languages and Tools:</h3>
   </a>
@@ -43,9 +47,7 @@
 <br/>
 
 ## 🔥My Motto
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=822382&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(dhrupad17);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=1589FF&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(dhrupad17);....+s.explore();....+s.learn();....+s.contribute()"/>
 <br/>
 
 <p align="center">
@@ -53,6 +55,7 @@
 		 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhrupad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhrupad17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 	</a>
 </p>
+<hr></hr>
 
 ## 📊 My Github Stats
 
@@ -62,6 +65,7 @@
  <br/>
 
  <br/>
+<hr></hr>
 
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -73,11 +77,12 @@
 
 <a href="https://github.com/dhrupad17/github-readme-activity-graph"><img alt="Dhrupad Chakraborty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhrupad17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
 
 <hr></hr>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
 </div>
+
+<hr></hr>
+<br/>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
