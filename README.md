@@ -11,7 +11,7 @@
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)
+- 🔭 I’m currently working on [100daysofcodechallenge](https://discord.com/invite/sqFRzrj7f3)
 
 - 🌱 I’m currently learning **Java ,JavaScript,Data Structures and Algorithms**
 
@@ -27,6 +27,9 @@
 <a href="https://www.linkedin.com/in/dhrupad-chakraborty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dhrupad.chakraborty.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/graphite_boy_dhrupad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graphite_boy_dhrupad" height="30" width="40" />
+<a href="https://twitter.com/DHRUPADCHAKRAB5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
+<a href="dhrupadchakraborty123@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vLbUMUg6S58G90qVSUtUo0LnMIRDNsTDQg&usqp=CAU" alt="dhrupad chakraborty" height="30" width="40" /></a>
+
 </p>
 
 ![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -39,11 +42,11 @@
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/no-linux.png"/> </a> 
-    <a href="https://notepad-plus-plus.org/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png"/> </a> 
-    <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
+<a href="https://notepad-plus-plus.org/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png"/> </a> 
+<a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" /> </a> 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 
