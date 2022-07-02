@@ -34,7 +34,7 @@
 
 ![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img align='right' src="https://media0.giphy.com/media/QpVUMRUJGokfqXyfa1/200w.webp?cid=ecf05e47ix6yvwxipwlb7sloepd0gz3dp20gc9yj5hee0qsw&rid=200w.webp&ct=g" width="250">
+<img align='right' src="https://media0.giphy.com/media/QpVUMRUJGokfqXyfa1/200w.webp?cid=ecf05e47ix6yvwxipwlb7sloepd0gz3dp20gc9yj5hee0qsw&rid=200w.webp&ct=g" width="350">
 
 <h3 align="left"> ⚙️ Languages and Tools:</h3>
   </a>
