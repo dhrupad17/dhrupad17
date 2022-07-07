@@ -19,20 +19,21 @@
 
 - ⚡ Fun fact **I eat more than code :)**
 
-![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
+<img align='right' src="https://media0.giphy.com/media/S9oKOo7qxtJ4WAHeGp/200w.webp?cid=ecf05e47yqgw7v8dpfvoh8hrvyigzjgnbapjdp1gtdgo9paf&rid=200w.webp&ct=g" width="300"> 
 <p align="left"> <img src="https://bethelcarlisle.com/wp-content/uploads/2020/07/lets-connect-1.png" width="250"/></p> 
-<p align="left">
 
+
+<p align="left">
 <a href="https://www.linkedin.com/in/dhrupad-chakraborty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dhrupad.chakraborty.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/graphite_boy_dhrupad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graphite_boy_dhrupad" height="30" width="40" />
 <a href="https://twitter.com/DHRUPADCHAKRAB5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vLbUMUg6S58G90qVSUtUo0LnMIRDNsTDQg&usqp=CAU" alt="dhrupad chakraborty" height="30" width="40" /></a>
-
 </p>
 
-![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 <img align='right' src="https://media0.giphy.com/media/QpVUMRUJGokfqXyfa1/200w.webp?cid=ecf05e47ix6yvwxipwlb7sloepd0gz3dp20gc9yj5hee0qsw&rid=200w.webp&ct=g" width="350">
 
@@ -69,7 +70,7 @@
  
 </p>
 
-![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 ## 🔥My Motto
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=1589FF&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(dhrupad17);....+s.explore();....+s.learn();....+s.contribute()"/>
@@ -81,9 +82,11 @@
 	</a>
 </p>
 
-![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 ## 📊 My Github Stats
+
+<img align='right' src="https://media4.giphy.com/media/GRVM7bxdn7yEFWTN6i/200.webp?cid=ecf05e47l4cau0wmltbpwhne37jknb1k026h5z6eqavm1bsg&rid=200.webp&ct=g" width="400">
 
   <br/>
 	 <a href="https://github.com/dhrupad17/github-readme-stats"><img alt="Dhrupad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhrupad17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -92,24 +95,27 @@
 
  <br/>
 
-![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 	<img src="https://komarev.com/ghpvc/?username=dhrupad17">
 </a>
+
+<img align='right' src="https://media4.giphy.com/media/lBm4rgtyIPJmywXzLW/200w.webp?cid=ecf05e474h4nrk6dfnd2vv10nw5pvg8u0hhuy6b0jmkiqr4k&rid=200w.webp&ct=g" width="200">
+
 <a href="https://github.com/dhrupad17?tab=followers"><img src="https://img.shields.io/github/followers/dhrupad17?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
 
 <a href="https://github.com/dhrupad17/github-readme-activity-graph"><img alt="Dhrupad Chakraborty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhrupad17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://media4.giphy.com/media/xThuWtNFKZWG6fUFe8/100.webp" width="1000" height="250">
 </div>
 
-![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 <br/>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
