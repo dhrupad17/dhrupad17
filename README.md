@@ -21,6 +21,12 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
+## My Holopin Badges
+
+[![@dhrupad17's Holopin board](https://holopin.me/dhrupad17)](https://holopin.io/@dhrupad17)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
+
 <img align='right' src="https://media0.giphy.com/media/S9oKOo7qxtJ4WAHeGp/200w.webp?cid=ecf05e47yqgw7v8dpfvoh8hrvyigzjgnbapjdp1gtdgo9paf&rid=200w.webp&ct=g" width="300"> 
 <p align="left"> <img src="https://bethelcarlisle.com/wp-content/uploads/2020/07/lets-connect-1.png" width="250"/></p> 
 
