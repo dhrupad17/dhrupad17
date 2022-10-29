@@ -11,7 +11,7 @@
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [100daysofcodechallenge](https://discord.com/invite/sqFRzrj7f3) and [Hacktoberfest 2022](https://hacktoberfest.com)
+- 🔭 I’m currently working on [Arcade](https://go.qwiklabs.com/arcade?utm_source=gcc&utm_medium=community&utm_campaign=a22diwali)
 
 - 🌱 I’m currently learning **Front-end Web Development,Data Structures and Algorithms and Machine Learning**
 
