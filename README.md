@@ -11,9 +11,9 @@
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [Arcade](https://go.qwiklabs.com/arcade?utm_source=gcc&utm_medium=community&utm_campaign=a22diwali)
+- 🔭 I’m currently working on [Oasis Infobyte](https://oasisinfobyte.com/) as a Web Developer Intern
 
-- 🌱 I’m currently learning **Front-end Web Development,Data Structures and Algorithms and Machine Learning**
+- 🌱 I’m currently learning **Back-end Web Development and Machine Learning**
 
 - 📫 Reach me **dhrupadchakraborty123@gmail.com**
 
