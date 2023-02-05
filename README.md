@@ -11,7 +11,7 @@
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [Oasis Infobyte](https://oasisinfobyte.com/) as a Web Developer Intern
+- 🔭 I’m currently working on [CodeClause](https://internship.codeclause.com/) as a Data Science Intern
 
 - 🌱 I’m currently learning **Back-end Web Development and Machine Learning**
 
