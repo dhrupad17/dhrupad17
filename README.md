@@ -146,4 +146,4 @@
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000"> -->
 
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
-<img height="120" alt="Thanks for visiting me" width="400"  height ="400" src="https://media0.giphy.com/media/j0eG9qPwgcuYuJMIth/200w.webp?cid=ecf05e47razln83wvsu7muq8npus07gvi6v2id2plbjyt0w3&rid=200w.webp&ct=g" />
+<img height="120" alt="Thanks for visiting me" width="400"  height ="600" src="https://media0.giphy.com/media/j0eG9qPwgcuYuJMIth/200w.webp?cid=ecf05e47razln83wvsu7muq8npus07gvi6v2id2plbjyt0w3&rid=200w.webp&ct=g" />
