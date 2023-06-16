@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 - 🔭 I’m currently working on [GSSoC 2023](https://gssoc.girlscript.tech/) and [SSOC 2023](https://hack2skill.com/hack/ssoc) as contributor
 
-- 🌱 I’m currently learning **Back-end Web Development and Machine Learning**
+- 🌱 I’m currently learning **Java Development and Machine Learning**
 
 - 📫 Reach me **dhrupadchakraborty123@gmail.com**
 
