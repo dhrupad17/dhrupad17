@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+	<img src="https://github.com/dhrupad17/dhrupad17/assets/91726340/f8f89d27-9cc1-4ddb-a9b5-59ab6ff56147">
 	</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=HHi+👋,+I'm+Dhrupad+Chakraborty+🦉+;A+Student+🧑🏼‍💻;A+Learner+🤓;ok+no+more+designation+I+have!+😂;">
