@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning **Java Development and Machine Learning**
 
+- 👉 Hover to [My Portfolio](https://dhrupadchakraborty17.netlify.app/)
+
 - 📫 Reach me **dhrupadchakraborty123@gmail.com**
 
 - ⚡ Fun fact **I eat more than code :)**
