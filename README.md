@@ -11,7 +11,6 @@
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [GSSoC 2023](https://gssoc.girlscript.tech/) and [SSOC 2023](https://hack2skill.com/hack/ssoc) as contributor
 
 - 🌱 I’m currently learning **Java Development and Machine Learning**
 
