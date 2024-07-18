@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=HHi+👋,+I'm+Dhrupad+Chakraborty+🦉+;A+Student+🧑🏼‍💻;A+Learner+🤓;ok+no+more+designation+I+have!+😂;">
 </p>
 
-<p><em>A Final Year Student of <a href="https://aot.edu.in/">Academy of Technology</a></br>
+<p><em>A B Tech Graduate in Computer Science and Engineering from <a href="https://aot.edu.in/">Academy of Technology</a></br>
 </em>
 </p>
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
