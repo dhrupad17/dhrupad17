@@ -5,14 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=HHi+👋,+I'm+Dhrupad+Chakraborty+🦉+;A+Student+🧑🏼‍💻;A+Learner+🤓;ok+no+more+designation+I+have!+😂;">
 </p>
 
-<p><em>A Junior of <a href="https://aot.edu.in/">Academy of Technology</a></br>
+<p><em>A Final Year Student of <a href="https://aot.edu.in/">Academy of Technology</a></br>
 </em>
 </p>
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🌱 I’m currently learning **Java Development and Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👉 Hover to [My Portfolio](https://dhrupadchakraborty17.netlify.app/)
 
@@ -32,60 +32,55 @@
 
 ---
 
-<img align='right' src="https://media0.giphy.com/media/S9oKOo7qxtJ4WAHeGp/200w.webp?cid=ecf05e47yqgw7v8dpfvoh8hrvyigzjgnbapjdp1gtdgo9paf&rid=200w.webp&ct=g" width="300"> 
 
+<h3 align="left"> 🤝 Let's Connect :</h3>
+  </a>
 
-<p align="left"> <img src="https://bethelcarlisle.com/wp-content/uploads/2020/07/lets-connect-1.png" width="250"/></p> 
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/dhrupad-chakraborty/" target="blank"><img align="center" src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" alt="dhrupad chakraborty" height="50" width="50" /></a>
-<a href="https://www.facebook.com/dhrupad.chakraborty.96" target="blank"><img align="center" src="https://camo.githubusercontent.com/ef7a0ee873668e1df873aecbb39fee518f6ad732876ef7217710254bd3572bb9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f66616365626f6f6b2d6e65772e706e67" alt="dhrupad chakraborty" height="50" width="50" /></a>
-<a href="https://www.instagram.com/chakro_bore_tea/" target="blank"><img align="center" src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" alt="graphite_boy_dhrupad" height="50" width="50" />
-<a href="https://twitter.com/DHRUPADCHAKRAB5" target="blank"><img align="center" src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" alt="dhrupad chakraborty" height="50" width="50" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vLbUMUg6S58G90qVSUtUo0LnMIRDNsTDQg&usqp=CAU" alt="dhrupad chakraborty" height="50" width="50" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhrupad-chakraborty/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+	&nbsp;
+  <a href="https://www.instagram.com/chakro_bore_tea/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/DHRUPADCHAKRAB5">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+	
 </p>
-
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000"> -->
 	
 ---
 
-<img align='right' src="https://media0.giphy.com/media/QpVUMRUJGokfqXyfa1/200w.webp?cid=ecf05e47ix6yvwxipwlb7sloepd0gz3dp20gc9yj5hee0qsw&rid=200w.webp&ct=g" width="350">
 
-<h3 align="left"> ⚙️ Languages and Tools:</h3>
+<h3 align="left"> ⚙️ Skills :</h3>
   </a>
-<p> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2771059ece39a91f0ca8afe0205a540e3af66f435508ba80b080eb249479d4dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/04a68d28c34b095402af3f66b15a65b9802c0d7ffdfa813635f65a9dbb18c16e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmIPO3_HtAz4GLozLWDcCp5YdbZGTexP6emg&usqp=CAU" alt="java" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67" alt="python" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/no-linux.png"/> </a> 
-<a href="https://notepad-plus-plus.org/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png"/> </a> 
-<a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="50" height="50" /> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://camo.githubusercontent.com/f38f282ae2f72fc796e9273f64a0b35084f3ef389d65e784dd5182072fe11a4e/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6a7570797465722e706e67"/> </a> 
-<a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" target="_blank"> <img src="https://camo.githubusercontent.com/6c243e47987cdccc9ab415cdeb8904a9dab7f2854ead83a961269ca438e190b5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f7373682e706e67"/> </a> 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,c,bash,bootstrap,css,express,gcp,html,java,js,linux,mongodb,mysql,nodejs,react,spring,tailwind,tensorflow," />
+  </a>
+</p>
+
+
+---
+
+<h3 align="left"> ⚙️ Tools Used :</h3>
+  </a>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,discord,eclipse,flask,github,gradle,heroku,idea,latex,maven,netlify,pycharm,postman,powershell,vercel,vscode" />
+  </a>
 </p>
 
 ---
 
-
-### 🖥️ Coding Platforms ⌨️🖱️
-
-<p align="left">
-<a href = "https://www.codechef.com/users/dhrupad17"><img align="center"
-                        src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg"
-                        height="60" width="40" /></a>
-<a href = "https://leetcode.com/dhrupadchakraborty123/"><img align="center"
-                        src="https://ih1.redbubble.net/image.662995398.2784/pp,840x830-pad,1000x1000,f8f8f8.u3.jpg"
-                        height="40" width="40" /></a>
- <a href = "https://auth.geeksforgeeks.org/user/dhrupadchakraborty123/practice"><img align="center"
-                        src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png"
-                        height="40" width="40" /></a>
-<a href = "https://nados.io/profile/476eafb9-11c2-4f8f-979c-0ad34a1528d0"><img align="center"
-                        src="https://nados.io/assets/logo/nadosDarkLogo.png"
-                        height="40" width="70" /></a>
- 
-</p>
 
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000"> -->
 
