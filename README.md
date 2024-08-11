@@ -30,32 +30,6 @@
 
 ---
 
-
-<h3 align="left"> 🤝 Let's Connect :</h3>
-  </a>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhrupad-chakraborty/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-	&nbsp;
-  <a href="https://www.instagram.com/chakro_bore_tea/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/DHRUPADCHAKRAB5">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-	
-</p>
-	
----
-
-
 <h3 align="left"> ⚙️ Skills :</h3>
   </a>
 
@@ -117,6 +91,33 @@
         </td>
     </tr>
 </table>
+
+---
+
+<img align='center' src="https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png" >
+
+ </a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhrupad-chakraborty/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+	&nbsp;
+  <a href="https://www.instagram.com/chakro_bore_tea/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/DHRUPADCHAKRAB5">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
 
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000"> -->
 
