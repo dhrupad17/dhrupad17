@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 👉 Hover to [My Portfolio](https://dhrupadchakraborty17.netlify.app/)
 
