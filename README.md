@@ -30,24 +30,121 @@
 
 ---
 
-<h3 align="left"> ⚙️ Skills :</h3>
-  </a>
+<h3 align="left">⚙️ Skills:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,c,bash,bootstrap,css,express,gcp,html,java,js,linux,mongodb,mysql,nodejs,react,spring,tailwind,tensorflow," />
+    <table align="center"> 
+      <tr>
+        <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></td>
+        <td><img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
+        <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></td>
+        <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></td>
+        <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
+        <td><img src="https://skillicons.dev/icons?i=express" alt="Express" /></td>
+      </tr>
+      <tr>
+        <td align="center">AWS</td>
+        <td align="center">C</td>
+        <td align="center">Bash</td>
+        <td align="center">Bootstrap</td>
+        <td align="center">CSS</td>
+        <td align="center">Express</td>
+      </tr>
+      <tr>
+        <td><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /></td>
+        <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></td>
+        <td><img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+        <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+        <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></td>
+        <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
+      </tr>
+      <tr>
+        <td align="center">GCP</td>
+        <td align="center">HTML</td>
+        <td align="center">Java</td>
+        <td align="center">JavaScript</td>
+        <td align="center">Linux</td>
+        <td align="center">MongoDB</td>
+      </tr>
+      <tr>
+        <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
+        <td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+        <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></td>
+        <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></td>
+        <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></td>
+      </tr>
+      <tr>
+        <td align="center">MySQL</td>
+        <td align="center">Node.js</td>
+        <td align="center">React</td>
+        <td align="center">Spring</td>
+        <td align="center">Tailwind CSS</td>
+        <td align="center">TensorFlow</td>
+      </tr>
+    </table>
   </a>
 </p>
 
 
+
 ---
 
-<h3 align="left"> ⚙️ Tools Used :</h3>
-  </a>
+<h3 align="left">⚙️ Tools Used:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,discord,eclipse,flask,github,gradle,heroku,idea,latex,maven,netlify,pycharm,postman,powershell,vercel,vscode" />
+    <table align="center"> 
+      <tr>
+        <td><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></td>
+        <td><img src="https://skillicons.dev/icons?i=atom" alt="Atom" /></td>
+        <td><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" /></td>
+        <td><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></td>
+        <td><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></td>
+        <td><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></td>
+      </tr>
+      <tr>
+        <td align="center">Anaconda</td>
+        <td align="center">Atom</td>
+        <td align="center">CodePen</td>
+        <td align="center">Discord</td>
+        <td align="center">Eclipse</td>
+        <td align="center">Flask</td>
+      </tr>
+      <tr>
+        <td><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></td>
+        <td><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></td>
+        <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
+        <td><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></td>
+        <td><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></td>
+        <td><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></td>
+      </tr>
+      <tr>
+        <td align="center">Netlify</td>
+        <td align="center">PyCharm</td>
+        <td align="center">Postman</td>
+        <td align="center">PowerShell</td>
+        <td align="center">Vercel</td>
+        <td align="center">VSCode</td>
+      </tr>
+      <tr>
+        <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+        <td><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" /></td>
+        <td><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></td>
+        <td><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></td>
+        <td><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /></td>
+        <td><img src="https://skillicons.dev/icons?i=maven" alt="Maven" /></td>
+      </tr>
+      <tr>
+        <td align="center">GitHub</td>
+        <td align="center">Gradle</td>
+        <td align="center">Heroku</td>
+        <td align="center">IntelliJ IDEA</td>
+        <td align="center">LaTeX</td>
+        <td align="center">Maven</td>
+      </tr>
+    </table>
   </a>
 </p>
 
