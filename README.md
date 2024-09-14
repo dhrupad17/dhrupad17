@@ -204,12 +204,19 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/DHRUPADCHAKRAB5">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://x.com/dhrupad1720">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/x.svg" width="48" height="48" />
   </a>
   &nbsp;
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com">
+<!--   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a> -->
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dhrupadchakraborty123@gmail.com">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="48" height="48" />
+  </a>
+	 &nbsp;
+  <a href="https://medium.com/@dhrupadchakraborty123">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="48" height="48" />
   </a>
 </p>
 
