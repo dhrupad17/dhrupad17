@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/dhrupad17/dhrupad17/assets/91726340/f8f89d27-9cc1-4ddb-a9b5-59ab6ff56147">
+	<img src="https://github.com/user-attachments/assets/f6f5ffe2-0a14-46f1-89fd-3f5ec573ce39">
 	</p>
 
 
